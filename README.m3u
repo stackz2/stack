@@ -1,2 +1,8 @@
-#EXTINF:-1 tvg-id="" tvg-logo="https://abr-f.eu-central-1.edge.mycdn.live/eiplus/canal-01/playlist.m3u8" group-title="esportes", TNT
-https://abr-f.eu-central-1.edge.mycdn.live/eiplus/canal-01/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Discovery-kids-latin-america.svg/revision/latest/scale-to-width-down/340?cb=20180825154521" group-title="esportes", Discovery kids
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/discoverykids.m3u8?mu3zAQc9HC3GbwJq=R5sDOE1v0hW13nOTClahQA&3U1G7qaTxrPbalZnEx=1616039320
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102012/untitled-1_15.png?itok=r79vmWZd" group-title="esportes",SporTV
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo-768x460.png" group-title="esportes",Fox Sports
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8
