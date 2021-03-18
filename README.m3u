@@ -1,7 +1,7 @@
-#EXTINF:-1 tvg-id="" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/10/divulgacao-590x354.png" group-title="documentários", Discovery turbo
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="documentários", Discovery turbo
 https://geralorigin.eu-central-1.edge.mycdn.live/live/discoveryturbohd/video.m3u8?md5=AAwlCQQP2VdpC2M-VmDQKg&expires=1616121408
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/SporTV_2017_logo.svg" group-title="esportes",SporTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SporTV_logo_2011.png/1200px-SporTV_logo_2011.png" group-title="esportes",SporTV
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo-768x460.png" group-title="esportes",Fox Sports
